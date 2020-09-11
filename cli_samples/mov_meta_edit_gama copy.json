@@ -1,0 +1,17 @@
+{
+    "processor": "mov_meta",
+    "params": {
+        "video_file": "/Users/test/Documents/prores/source.mov",
+        "headers_to_the_end": true
+        "nclc": {
+            "in_file": true,
+            "primaries": 2,
+            "transfer": 2,
+            "matrix": 2
+        },
+        "gama": {
+            "in_file": true,
+            "gamma": 2.4
+        }
+    }
+}
