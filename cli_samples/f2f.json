@@ -1,0 +1,10 @@
+{
+    "processor": "f2f",
+    "params": {
+        "src_file": "/Users/test/Documents/prores/source.mov",
+        "dst_file": "/Users/test/Documents/prores/target.mov",
+        "src_in_frame": 0,
+        "dst_in_frame": 0,
+        "duration": 200
+    }
+}

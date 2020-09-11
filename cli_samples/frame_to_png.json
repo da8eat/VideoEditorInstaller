@@ -1,0 +1,16 @@
+{
+    "processor": "frame",
+    "params": {
+        "video_file": "/Users/test/Documents/prores/video.mov",
+        "png_path": "/Users/test/Documents/prores/",
+        "in_point": 0,
+        "duration": 5,
+        "mode": "to_png",
+        "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
